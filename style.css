@@ -30,8 +30,18 @@ nav{
 
 .nav_link{
         margin-left: 30px;
+        margin-top: 10px;
         margin-right: 20px;
         font-size: 15px;
+}
+
+.li_a{
+    text-decoration: none;
+    color: black;
+}
+
+.li_a:hover{
+    color: #4DED30;
 }
 
 
