@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 2px 1px 31px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 50px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Akronim', cursive;
+
+}
+
+.logo_txt{
+    font-size: 31px;
+    font-weight: 600;
+}
+
+.nav_link{
+        margin-left: 30px;
+        margin-right: 20px;
+        font-size: 15px;
+}
+
+
+.nav_login{
+    text-align: end;
+}
